@@ -1,2 +1,4 @@
 ﻿User-agent: *
 Disallow: /
+
+Sitemap: https://sedot-wc-indramayu.pages.dev/sitemap-index.xml
